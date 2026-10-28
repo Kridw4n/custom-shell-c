@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+.pytest*/
+bin/
+.DS_Store
+archive/
+cseshell
+dspawn.log
+.cseshell_profile_tmp
+*Zone.Identifier
+*.o

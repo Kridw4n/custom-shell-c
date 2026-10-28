@@ -1,0 +1,4 @@
+PROMPT_COLOR=cyan
+PROMPT_STYLE=cseshell>
+TEXT_COLOR=white
+ERROR_COLOR=red
